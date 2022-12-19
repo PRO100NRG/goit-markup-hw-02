@@ -2,7 +2,7 @@
   --first-list-color: rgba(46, 47, 66, 1);
   --sercond-list-colo: rgba(67, 68, 85, 1);
   --header-hover-color: #4d5ae5;
-  --typical-lh: 0,66; 
+  --typical-lh: 1.5; 
 }
 
 body {
@@ -40,7 +40,7 @@ body {
   font-style: normal;
   font-weight: 800;
   font-size: 18px;
-  line-height: 0, 75;
+  line-height: 1.33;
   display: flex;
   align-items: center;
   letter-spacing: 0.03em;
@@ -81,7 +81,7 @@ body {
 .section-title {
   font-weight: 600;
   font-size: 56px;
-  line-height: 0, 93;
+  line-height: 1.07;
   text-align: center;
   letter-spacing: 0.02em;
   color: #ffffff;
@@ -95,7 +95,7 @@ font-family:inherit;
 font-style: normal;
 font-weight: 600;
 font-size: 16px;
-line-height: 0,84;
+line-height: 1.18;
 cursor: pointer;
 display: flex;
 align-items: center;
@@ -111,13 +111,13 @@ color: #FFFFFF;
   height: 24px;
   font-weight: 500;
   font-size: 20px;
-  line-height: 0, 83;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   color: var(--first-list-color);
 }
 .tools-text {
   font-size: 16px;
-  line-height: 0, 66;
+  line-height: 1.5;
   letter-spacing: 0.02em;
 }
 /* третяя секция */
@@ -125,7 +125,7 @@ color: #FFFFFF;
 .doing-img-title {
   font-weight: 600;
   font-size: 36px;
-  line-height: 0, 9;
+  line-height: 1.11;
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
@@ -138,7 +138,7 @@ color: #FFFFFF;
 .team-title {
   font-weight: 600;
   font-size: 36px;
-  line-height: 0, 9;
+  line-height: 1.11;
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
@@ -147,7 +147,7 @@ color: #FFFFFF;
 .team-title-nm {
   font-weight: 500;
   font-size: 20px;
-  line-height: 0, 83;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   color: var(--first-list-color);
 }
